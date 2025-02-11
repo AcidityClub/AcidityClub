@@ -18,5 +18,8 @@ My name is *Gavin Reid*, and I have been working on various programming projects
 - **Other Stuff**: Git, IntelliJ Idea, Visual Studio
 
 ## My Work
+### (Work In Progress) MinemenLynx
+![MinemenLynx GitHub](https://i.imgur.com/0pJgvZs_d.webp?maxwidth=760&fidelity=grand)
+
 ### TeNitrogen (Minecraft Server Management Core)
 ![TeNitrogen GitHub](https://i.imgur.com/ZHHwh6h.png)
