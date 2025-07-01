@@ -26,3 +26,9 @@ Before I started working on Minecraft projects (Java), I used to make Roblox gam
 ### CSharp | ~1 Year
 I've worked with this a little bit, but I've forgotten a lot of the language features and syntax.
 
+## Gallery
+### XeNitrogen Replica
+![Report Message](https://github.com/AcidityClub/AcidityClub/blob/59c3cdb72f7a753618bbf8e25b7a957b13df01d5/qN2Xunf.png)
+![Chat Filter](https://github.com/AcidityClub/AcidityClub/blob/59c3cdb72f7a753618bbf8e25b7a957b13df01d5/Ge41c3D.png)
+
+
